@@ -1,19 +1,5 @@
-# cocos2d-x sprite sheet tutorial
-
-This project contains the source code and assets for the [animations and sprite sheets in cocos2d-x](https://www.codeandweb.com/blog/2015/12/15/animations-and-spritesheets-in-cocos2d-x) tutorial.
-
-Contents of the tutorial:
-
-* Why you should use sprite sheets
-* Designing for different resolutions and devices
-* Creating sprite sheets
-* Using sprite sheets
-* Creating animations
-* Animating a character sprite
-
-
-## Important notice
-
+cocos2d-x
+=========
 
 We've removed the cocos2d-x sources from this folder. The reason is that they would add more than 300MB to the size of this repository.
 
@@ -33,8 +19,6 @@ To run this project simply copy the contents of the downloaded zip file into thi
   * cocos
      * ...
   * ...
-
-
 
 
 
