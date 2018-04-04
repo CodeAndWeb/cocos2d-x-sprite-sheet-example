@@ -1,6 +1,6 @@
 # cocos2d-x sprite sheet tutorial
 
-This project contains the source code and assets for the [animations and sprite sheets in cocos2d-x](https://www.codeandweb.com/blog/2015/12/15/animations-and-spritesheets-in-cocos2d-x) tutorial.
+This project contains the source code and assets for the [animations and sprite sheets in cocos2d-x](https://www.codeandweb.com/texturepacker/tutorials/animations-and-spritesheets-in-cocos2d-x) tutorial.
 
 Contents of the tutorial:
 
